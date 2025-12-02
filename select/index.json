@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "My Revolution",
+  "base_artist": "Misato Watanabe",
+  "createdAt": "2025-12-02T13:47:03.740514Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "My Revolution",
+      "artist": "Miracle Of Sound",
+      "has_synced": true,
+      "path": "select/01_My_Revolution_Miracle_Of_Sound.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "My Revolution",
+      "artist": "Ian Hunter",
+      "has_synced": false,
+      "path": "select/02_My_Revolution_Ian_Hunter.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hello My Revolution",
+      "artist": "田所あずさ",
+      "has_synced": false,
+      "path": "select/03_Hello_My_Revolution_田所あずさ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Not My Revolution (Oi! Oi! Oi!)",
+      "artist": "Johnny Hobo & The Freight Trains",
+      "has_synced": false,
+      "path": "select/04_Not_My_Revolution_(Oi!_Oi!_Oi!)_Johnny_Hobo_&_The_Freight_Trains.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "My Revolution",
+      "artist": "Blind Channel",
+      "has_synced": true,
+      "path": "select/05_My_Revolution_Blind_Channel.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "My Revolution",
+      "artist": "Misato Watanabe",
+      "has_synced": true,
+      "path": "select/06_My_Revolution_Misato_Watanabe.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "My Revolution",
+      "artist": "渡辺美里",
+      "has_synced": true,
+      "path": "select/07_My_Revolution_渡辺美里.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Brand New Year (My Revolution)",
+      "artist": "SHeDAISY",
+      "has_synced": true,
+      "path": "select/08_Brand_New_Year_(My_Revolution)_SHeDAISY.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "My Revolution",
+      "artist": "Jazzotron",
+      "has_synced": true,
+      "path": "select/09_My_Revolution_Jazzotron.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "My Revolution",
+      "artist": "Misato Watanabe",
+      "has_synced": false,
+      "path": "select/10_My_Revolution_Misato_Watanabe.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "My Revolution ft. AKINA, Anna, & MIKAKO",
+      "artist": "FEMM",
+      "has_synced": true,
+      "path": "select/11_My_Revolution_ft._AKINA,_Anna,_&_MIKAKO_FEMM.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hello My Revolution",
+      "artist": "田所あずさ",
+      "has_synced": true,
+      "path": "select/12_Hello_My_Revolution_田所あずさ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "My Revolution",
+      "artist": "Ian Hunter",
+      "has_synced": false,
+      "path": "select/13_My_Revolution_Ian_Hunter.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "My Revolution",
+      "artist": "Papas Fritas",
+      "has_synced": false,
+      "path": "select/14_My_Revolution_Papas_Fritas.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "My Revolution",
+      "artist": "渡辺 美里",
+      "has_synced": false,
+      "path": "select/pl_01_My_Revolution_渡辺_美里.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "My Revolution",
+      "artist": "渡辺 美里",
+      "has_synced": false,
+      "path": "select/pl_02_My_Revolution_渡辺_美里.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "My Revolution",
+      "artist": "渡辺 美里",
+      "has_synced": false,
+      "path": "select/pl_03_My_Revolution_渡辺_美里.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "My Revolution",
+      "artist": "渡辺 美里",
+      "has_synced": false,
+      "path": "select/pl_04_My_Revolution_渡辺_美里.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "My Revolution",
+      "artist": "渡辺 美里",
+      "has_synced": false,
+      "path": "select/pl_05_My_Revolution_渡辺_美里.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "My Revolution",
+      "artist": "渡辺 美里",
+      "has_synced": false,
+      "path": "select/pl_06_My_Revolution_渡辺_美里.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "My Revolution",
+      "artist": "渡辺 美里",
+      "has_synced": false,
+      "path": "select/pl_07_My_Revolution_渡辺_美里.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "My Revolution",
+      "artist": "渡辺 美里",
+      "has_synced": false,
+      "path": "select/pl_08_My_Revolution_渡辺_美里.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "My Revolution",
+      "artist": "渡辺 美里",
+      "has_synced": false,
+      "path": "select/pl_09_My_Revolution_渡辺_美里.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "My Revolution",
+      "artist": "渡辺 美里",
+      "has_synced": false,
+      "path": "select/pl_10_My_Revolution_渡辺_美里.txt"
+    }
+  ]
+}
